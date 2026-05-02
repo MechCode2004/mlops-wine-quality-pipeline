@@ -1,0 +1,22 @@
+data:
+  path: "data/winequality-red.csv"
+  separator: ";"
+  target_column: "quality"
+
+model:
+  type: "RandomForestClassifier"
+  n_estimators: 100
+  max_depth: 8
+  random_state: 42
+
+training:
+  test_size: 0.2
+  random_state: 42
+
+mlflow:
+  tracking_uri: "file:./mlruns"
+  experiment_name: "wine_quality_classification"
+
+outputs:
+  model_dir: "models"
+  model_name: "wine_quality_model"

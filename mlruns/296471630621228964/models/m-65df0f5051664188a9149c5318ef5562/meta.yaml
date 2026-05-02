@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/Documents/mlops-wine-quality-pipeline/mlruns/296471630621228964/models/m-65df0f5051664188a9149c5318ef5562/artifacts
+creation_timestamp: 1777685244307
+experiment_id: '296471630621228964'
+last_updated_timestamp: 1777685248055
+model_id: m-65df0f5051664188a9149c5318ef5562
+model_type: null
+name: wine_quality_model
+source_run_id: 4ac7c15bccdf490ab4657a490a5eb5f1
+status: 2
+status_message: null

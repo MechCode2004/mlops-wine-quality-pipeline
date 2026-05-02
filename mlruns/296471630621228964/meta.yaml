@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/USER/Documents/mlops-wine-quality-pipeline/mlruns/296471630621228964
+creation_time: 1777685244019
+experiment_id: '296471630621228964'
+last_update_time: 1777685244019
+lifecycle_stage: active
+name: wine_quality_classification
+trace_location: null
+workspace: default
